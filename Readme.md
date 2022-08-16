@@ -49,7 +49,7 @@ You can get started by following the ineuron Website and learn code online.
 
 Just open your favorite code editor and follow along with the---
 
-![image](https://user-images.githubusercontent.com/108862706/184493921-6cca9346-17c0-4d78-9a83-aab80fc23ce9.png) 
+[![image](https://user-images.githubusercontent.com/108862706/184493921-6cca9346-17c0-4d78-9a83-aab80fc23ce9.png)](https://codesandbox.io/u/hiteshchoudhary) 
 🔗[ Codesandbox /Hitesh choudhary](https://codesandbox.io/u/hiteshchoudhary)..
 
 ### Who the project is for?
@@ -57,8 +57,8 @@ Just open your favorite code editor and follow along with the---
 The project is for the people who wanna get more skilled in HTML & CSS.
 Source code is available on my Git hub link
 
-![image](https://user-images.githubusercontent.com/108862706/184493986-7bdd92e4-e060-4736-9365-f5e25448090c.png)
-🔗[Source code](https://github.com/satyamjaysawal)
+[![image](https://user-images.githubusercontent.com/108862706/184493986-7bdd92e4-e060-4736-9365-f5e25448090c.png)](https://github.com/satyamjaysawal/HTML-CSS-PROJECT-1)
+🔗[Source code](https://github.com/satyamjaysawal)(https://github.com/satyamjaysawal/HTML-CSS-PROJECT-1)
 
 
 
