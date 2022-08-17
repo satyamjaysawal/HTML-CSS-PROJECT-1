@@ -11,7 +11,7 @@ Its only front page of a Website. In which three section nav section ,hero secti
 
 [![ineuron](https://user-images.githubusercontent.com/108862706/184478502-02f2c131-c006-43e0-a88c-a25c1376739a.png)](https://ineuron.ai/)
 
-
+## 🔗PROJECT-1  : _Screenshot_
 
 ![Project 1](thumbnail.png)
 ## __This is first Project of Html & CSS_
@@ -25,8 +25,7 @@ HTML, CSS...
 ## 🔗 What we are going to learn
 
 - HTML, CSS
-- CSS Grid
-- Scroll Animation
+- CSS Flex
 - Netlify Deployment
 - More . . .
 
